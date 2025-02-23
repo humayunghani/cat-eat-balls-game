@@ -22,9 +22,12 @@ Structure: Modular design with separate classes for Cat, Ball, RainbowBall, Bomb
 Assets: Custom images (cat.png, bomb.png, how_to_play_icon.png) and sounds (.mp3 files).
 
 # Getting Started
-Clone the repo: git clone https://github.com/humayunghani/cat-eat-balls.git
-Install Pygame: pip install pygame
-Run the game: python CatGame.py
+Clone the repo: `git clone https://github.com/humayunghani/cat-eat-balls.git`
+
+Install Pygame: `pip install pygame`
+
+Run the game: `python CatGame.py`
+
 
 # Contributing
 Feel free to fork, submit pull requests, or report issues! Ideas for new features, difficulty tweaks, or asset improvements are welcome.
